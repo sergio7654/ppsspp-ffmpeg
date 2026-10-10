@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hola sofía",
   "author": "Custom",
-  "website": "",
+  "website": "https://github.com/sergio7654/ppsspp-ffmpeg",
   "model": "https://raw.githubusercontent.com/sergio7654/ppsspp-ffmpeg/master/hola_sofia.tflite",
   "version": 2,
   "micro": {
