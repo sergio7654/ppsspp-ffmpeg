@@ -6,7 +6,7 @@
   "model": "https://raw.githubusercontent.com/sergio7654/ppsspp-ffmpeg/master/hola_sofia.tflite",
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.5,
+    "probability_cutoff": 0.2,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 100000,
