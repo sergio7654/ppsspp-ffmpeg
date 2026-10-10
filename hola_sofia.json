@@ -1,0 +1,17 @@
+{
+  "type": "micro",
+  "wake_word": "hola sofía",
+  "author": "Custom",
+  "website": "",
+  "model": "hola_sofia.tflite",
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 5,
+    "feature_step_size": 3,
+    "tensor_arena_size": 100000
+  },
+  "trained_languages": [
+    "es"
+  ]
+}
