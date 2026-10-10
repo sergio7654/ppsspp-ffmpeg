@@ -3,7 +3,7 @@
   "wake_word": "hola sofía",
   "author": "Custom",
   "website": "",
-  "model": "hola_sofia.tflite",
+  "model": "https://raw.githubusercontent.com/sergio7654/ppsspp-ffmpeg/master/hola_sofia.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
